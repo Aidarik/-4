@@ -1,4 +1,4 @@
-var array_word = ['маа','ловушка','орленок','мамонтенок'];
+var array_word = ['мама','ловушка','орленок','мамонтенок'];
 var array_symbol = ['м'];
 
 function getRandom(min,max){
